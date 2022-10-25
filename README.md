@@ -17,12 +17,8 @@ Progressive Web Applications (PWA) made using node.js, express, indexedDB, Mongo
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/Sufiyan11919/Budget-Tracker-PWA-/main/screenshots/Screenshot%20(212).png)
 
-
-
-## Testing
-API routes tested using [Thunder Client Extension](https://www.thunderclient.com/).
 
 ## Deployment
 
